@@ -1,0 +1,13 @@
+This is an OpenGL demo featuring dynamic lightmaps,
+created for an article at http://www.3ddrome.com/
+It's been developed and tested on Slackware Linux.
+
+To build it, just run 'make' (you may have to edit the
+Makefile). This will create an executable called 'main'
+that you can then run - press the space bar to toggle
+lighting in the demo.
+
+The code is distributed under a BSD-style license.
+
+Josh Beam
+http://joshbeam.com/
